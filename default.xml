@@ -4,7 +4,7 @@
 	  fetch="git@github.com:sujeevdias-fp" />
   <default revision="master"
 	   remote="sujeev" />
-  <project path="hellow-world"
+  <project path="hello-world"
 	   name="hello-world"
 	   remote="sujeev" />
 </manifest>
