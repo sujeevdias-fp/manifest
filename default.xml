@@ -4,6 +4,5 @@
 	  fetch="git@github.com:sujeevdias-fp" />
   <default revision="master"
 	   remote="sujeev" />
-  <project name="hello-world"
-	   remote="sujeev" />
+  <project name="hello-world" />
 </manifest>
