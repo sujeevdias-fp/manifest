@@ -4,5 +4,5 @@
 	  fetch="git@github.com:" />
   <default revision="master"
 	   remote="sujeev" />
-  <project name="sujeevdias-fp/hello-world" />
+  <project name="sujeevdias-fp/hello-world.git" />
 </manifest>
