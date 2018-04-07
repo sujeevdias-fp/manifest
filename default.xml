@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="sujeev"
-	  fetch="git@github.com:sujeevdias-fp" />
+	  fetch="ssh://github.com/" />
   <default revision="master"
 	   remote="sujeev" />
-  <project name="hello-world" />
+  <project name="sujeevdias-fp/hello-world" />
 </manifest>
