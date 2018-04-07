@@ -6,4 +6,6 @@
 	   remote="sujeev" />
   <project name="sujeevdias-fp/hello-world.git"
 	path="hello" />
+  <project name="Fieldpiece/sman5-sw.git"
+	path="smant-sw" />
 </manifest>
