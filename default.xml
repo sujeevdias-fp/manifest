@@ -2,6 +2,8 @@
 <manifest>
   <remote name="sujeev"
 	  fetch="git@github.com:sujeevdias-fp" />
+  <default revision="master"
+	   remote="sujeev" />
   <project path="test"
 	   name="hello-world"
 	   remote="sujeev" />
