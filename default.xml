@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="sujeev"
-	  fetch="github.com:sujeevdias-fp" />
+	  fetch="git@github.com:sujeevdias-fp" />
   <project path="test"
 	   name="hello-world"
 	   remote="sujeev" />
